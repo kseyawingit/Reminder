@@ -8,4 +8,7 @@
         app:showAsAction="ifRoom"
 
         ></item>
+
+    <item android:id="@+id/menu_pref"
+        android:title="pref"> </item>
 </menu>
